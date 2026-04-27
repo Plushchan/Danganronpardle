@@ -1,0 +1,11 @@
+.correct {
+  color: #4c7840;
+}
+
+.partiallyCorrect {
+  color: #ffd32c;
+}
+
+.incorrect {
+  color: #fa003f;
+}
